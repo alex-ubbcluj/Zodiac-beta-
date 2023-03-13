@@ -1,0 +1,10 @@
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac test 2.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac_test_2.Form1.resources
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac_test_2.Properties.Resources.resources
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac test 2.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac test 2.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\bin\Debug\Zodiac test 2.exe.config
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\bin\Debug\Zodiac test 2.exe
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\bin\Debug\Zodiac test 2.pdb
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac test 2.exe
+C:\Users\alex\Desktop\Zodiac test 2\Zodiac test 2\obj\Debug\Zodiac test 2.pdb
